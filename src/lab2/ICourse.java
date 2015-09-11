@@ -10,6 +10,6 @@ public interface ICourse {
     
     public abstract void setCourseName(String courseName);
     public abstract void setCourseNumber(String courseNumber);
-    public abstract void setCourseCredits(double credits);
+    public abstract void setCredits(double credits);
     
 }
