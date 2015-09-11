@@ -9,9 +9,6 @@ import javax.swing.JOptionPane;
  * @version     1.00
  */
 public class IntroJavaCourse extends ITCourse{
-    private String courseName;
-    private String courseNumber;
-    private double credits;
     private String prerequisites;
 
     public IntroJavaCourse(String courseName, String courseNumber) {
