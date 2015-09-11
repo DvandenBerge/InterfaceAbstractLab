@@ -15,6 +15,4 @@ public class IntroToProgrammingCourse extends ITCourse{
         this.setCourseName(courseName);
         this.setCourseNumber(courseNumber);
     }
-
-    
 }

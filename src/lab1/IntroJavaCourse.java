@@ -17,7 +17,7 @@ public class IntroJavaCourse extends ITCourse{
     }
 
     public String getPrerequisets(){
-        return this.prerequisites;
+        return prerequisites;
     }
     
     public void setPrerequisites(String prerequisites) {
