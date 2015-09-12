@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 /**
  * Describe responsibilities here.
  *
- * @author      your name goes here
+ * @author      @Dan
  * @version     1.00
  */
 public class IntroJavaCourse extends ITCourse{
@@ -16,7 +16,7 @@ public class IntroJavaCourse extends ITCourse{
         this.setCourseNumber(courseNumber);
     }
 
-    public String getPrerequisets(){
+    public String getPrerequisites(){
         return prerequisites;
     }
     
